@@ -7,8 +7,9 @@ Hi, I'm Faruqi Rabbani!
 
 ### 👀 About Me
 - I’m currently learning and improving my Quality Assurance Engineer (Automation & Manual) skills
-- I have graduated from Alterra Academy as Quality Assurance Engineer 
+- I have graduated from Alterra Academy as Software Quality Assurance Engineer 
 - I have a strong interest in Quality Engineering and like explore about new trends in QE tech
+- Currently working at Formulatrix as Software Quality Assurance Automation Engineer.
 
 ### 🤝 Reach Me
 <a href="https://instagram.com/ukifar">
